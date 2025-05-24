@@ -11,7 +11,7 @@ A collection of beginner-friendly examples demonstrating how to handle user inpu
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/RadiantCOREX64/python-input-basics.git
+   git clone https://github.com/RadiantCoreLabs/python-input-basics.git
 
 📜 License
 MIT © [Sina Parsa]
